@@ -18,3 +18,4 @@ https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Huawei/Huawei.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/XiaoMi/XiaoMi.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Steam/Steam.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Notion/Notion.list
