@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "scholar.google.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "1lib.cloud",
         "1lib.domains",
